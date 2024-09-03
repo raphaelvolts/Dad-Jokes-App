@@ -4,9 +4,9 @@ import JokesList from "./JokeList";
 
 function App() {
   return (
-    <>
+    <div className="App">
       <JokesList />
-    </>
+    </div>
   );
 }
 
