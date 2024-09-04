@@ -119,7 +119,7 @@ export default function JokesList() {
             alt="Laughing Icon"
           />
           <button className="JokeList-getmore" onClick={handleClick}>
-            New Jokes
+            Fetch Jokes
           </button>
         </div>
         <div className="JokeList-jokes">
